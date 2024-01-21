@@ -1,0 +1,12 @@
+{
+  "helloWorld": "Bonjour le monde!",
+  "noAccount": "Pas de compte",
+  "register": "inscrivez-vous",
+  "login": "Connectez-vous",
+  "username": "Email ou numéro de téléphone",
+  "forgotPassword": "Mot de passe oublié",
+  "password": "Mot de passe",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
